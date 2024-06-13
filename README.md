@@ -21,6 +21,9 @@ Beberapa komponen yang ditampilkan diambil dari database DBeaver, Library Leafle
 ### Link Project
 https://github.com/Rindi1414/Responsi-PGWEBL
 
+### Tangkapan Layar
+![Landing Page](./public/landingpage/images/landingpage.png)
+
 ### Hak Cipta
 Rindi Tri Setyaningsih
 
